@@ -81,7 +81,7 @@
 		"oracle_thin-19169c593c1-35a2b048c29c3f4c": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
-			"name": "khj-1.xyz",
+			"name": "TEST_USER",
 			"save-password": true,
 			"configuration": {
 				"host": "khj-1.xyz",
